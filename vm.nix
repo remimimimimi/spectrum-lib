@@ -1,0 +1,5 @@
+{ config }:
+
+{
+  createVm = { name, runCommand }: { };
+}
